@@ -5,7 +5,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="35" height="35" /> Sou um iniciante na area de programação, tendo meu inicio de atuação na área através da curiosidade e pela tecnologia  da minha formação , a qual estou cursando ***Análise e desenvolvimento de sistemas***.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" alt="Student" width="35" height="35" /> "Sou um iniciante na área de programação, tendo começado minha atuação por meio da curiosidade e da tecnologia relacionada à minha formação. Atualmente, estou cursando ***Análise e Desenvolvimento de Sistemas***.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" height="35" />Possuo alguns conhecimetos da área na parte de Hardwares, Redes, Pentest e Cibersegurança. No entanto, pretendo me aprimorar para area de desenvolvimento de softwares. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
 ##
